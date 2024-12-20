@@ -9,6 +9,11 @@
       -> debugging
       -> easy to collab
 5. End to End Project
+      -> function vs method
+      -> magic method or dundor method
+      -> self keyword
+      -> You can create attribute outside class as well
       -> encapsulation
       -> getter and setter
       -> static method
+      -> inheritance
