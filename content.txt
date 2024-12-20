@@ -8,3 +8,7 @@
       -> code reusability
       -> debugging
       -> easy to collab
+5. End to End Project
+      -> encapsulation
+      -> getter and setter
+      -> static method
